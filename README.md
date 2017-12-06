@@ -7,7 +7,7 @@ This program helps create a sales report based on the warehouse data sales data.
 ![alt text](file%20structure/file%20structure.PNG "PR3F17.txt")
 
 # Usage
-This project is useful for the creation of Inventory Reports to help with making future plans for a company or individual.
+This project is useful for the creation of sales report based on warehouses. This reports also helps give insight on what customers are looking for geographically and what their spending habits are for that region. There is also a customer rating system displayed in the report that shows how active a customer is with the company.
 
 # COBOL
 * This project was written using OpenCOBOL and was designed to run on none mainframe computers.
